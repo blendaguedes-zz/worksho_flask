@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df411ab0-a951-43de-9cc5-5a9aa1d917ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="XHTML File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="0d355f60-8f67-490c-ba35-697999a46467" />
+  <component name="ProjectId" id="1fxnvrRxkpwO3kbgYx4pdV21O32" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/form" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/form" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app-get" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/templates/form" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flask server.Flask (app.py) (1)">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="worshop_flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="FLASK_DEBUG" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app-get/app1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="database" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="worshop_flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app-session.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="worshop_flask" />
+      <option name="target" value="$PROJECT_DIR$/app-session.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py) (1)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="worshop_flask" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <option name="flaskDebug" value="true" />
+      <module name="worshop_flask" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <option name="flaskDebug" value="true" />
+      <module name="worshop_flask" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="workshop_flask_lol" type="Python.FlaskServer">
+      <option name="flaskDebug" value="true" />
+      <module name="worshop_flask" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="FLASK_DEBUG" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../../CESAR/workshop_flask_lol/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.workshop_flask_lol" />
+      <item itemvalue="Flask server.Flask (app-session.py)" />
+      <item itemvalue="Flask server.Flask (app.py)" />
+      <item itemvalue="Flask server.Flask (app.py) (1)" />
+      <item itemvalue="Python.app1" />
+      <item itemvalue="Python.database" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flask server.Flask (app.py) (1)" />
+        <item itemvalue="Python.database" />
+        <item itemvalue="Flask server.Flask (app-session.py)" />
+        <item itemvalue="Flask server.Flask (app.py)" />
+        <item itemvalue="Flask server.Flask (app.py)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df411ab0-a951-43de-9cc5-5a9aa1d917ff" name="Default Changelist" comment="" />
+      <created>1597168844622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597168844622</updated>
+      <workItem from="1597168958940" duration="4315000" />
+      <workItem from="1597235680655" duration="15078000" />
+      <workItem from="1597337681137" duration="7097000" />
+      <workItem from="1597374302719" duration="439000" />
+      <workItem from="1597374959833" duration="3541000" />
+      <workItem from="1597385138437" duration="3557000" />
+      <workItem from="1597682209490" duration="226000" />
+      <workItem from="1597729777382" duration="1967000" />
+      <workItem from="1597941695137" duration="4268000" />
+      <workItem from="1597954177037" duration="40000" />
+      <workItem from="1598637686283" duration="1335000" />
+      <workItem from="1598896752153" duration="686000" />
+      <workItem from="1599145965477" duration="3488000" />
+      <workItem from="1600176461408" duration="616000" />
+      <workItem from="1604410861750" duration="959000" />
+      <workItem from="1604412851108" duration="272000" />
+      <workItem from="1604413144719" duration="1427000" />
+      <workItem from="1604427098805" duration="35000" />
+      <workItem from="1604427578068" duration="154000" />
+      <workItem from="1604512674026" duration="2029000" />
+      <workItem from="1604580755789" duration="418000" />
+      <workItem from="1604590022324" duration="673000" />
+      <workItem from="1604602283728" duration="658000" />
+      <workItem from="1604605968274" duration="532000" />
+      <workItem from="1604769095096" duration="5000" />
+      <workItem from="1605032035359" duration="1273000" />
+      <workItem from="1605269894600" duration="1310000" />
+      <workItem from="1605634015511" duration="510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="79" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604413175568">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="270" y="79" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.805@0.23.1440.805" timestamp="1597944064374" />
+    <state x="270" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.811@0.23.1440.811" timestamp="1604413175568" />
+    <state x="341" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604412886820">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="341" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.811@0.23.1440.811" timestamp="1604412886820" />
+    <state x="574" y="162" key="EnvironmentVariablesDialog" timestamp="1597340690966">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="574" y="162" key="EnvironmentVariablesDialog/0.23.1440.805@0.23.1440.805" timestamp="1597340690966" />
+    <state width="1398" height="188" key="GridCell.Tab.0.bottom" timestamp="1604582970342">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="823" height="187" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1599156597159" />
+    <state width="1398" height="188" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1604582970342" />
+    <state width="1398" height="188" key="GridCell.Tab.0.center" timestamp="1604582970340">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="823" height="187" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1599156597159" />
+    <state width="1398" height="188" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1604582970340" />
+    <state width="1398" height="188" key="GridCell.Tab.0.left" timestamp="1604582970339">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="823" height="187" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1599156597158" />
+    <state width="1398" height="188" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1604582970339" />
+    <state width="1398" height="188" key="GridCell.Tab.0.right" timestamp="1604582970341">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="823" height="187" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1599156597159" />
+    <state width="1398" height="188" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1604582970341" />
+    <state width="897" height="257" key="GridCell.Tab.1.bottom" timestamp="1597951560218">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="897" height="257" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1597951560218" />
+    <state width="897" height="257" key="GridCell.Tab.1.center" timestamp="1597951560217">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="897" height="257" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1597951560217" />
+    <state width="897" height="257" key="GridCell.Tab.1.left" timestamp="1597951560217">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="897" height="257" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1597951560217" />
+    <state width="897" height="257" key="GridCell.Tab.1.right" timestamp="1597951560218">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="897" height="257" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1597951560218" />
+    <state width="243" height="457" key="HiddenNamespacesPopup" timestamp="1604413253133">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="243" height="457" key="HiddenNamespacesPopup/0.23.1440.811@0.23.1440.811" timestamp="1604413253133" />
+    <state x="221" y="64" key="SettingsEditor" timestamp="1605032091987">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="221" y="64" key="SettingsEditor/0.23.1440.805@0.23.1440.805" timestamp="1599154783996" />
+    <state x="221" y="64" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1605032091987" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/worshop_flask$workshop_flask_lol.coverage" NAME="workshop_flask_lol Coverage Results" MODIFIED="1597341702682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/worshop_flask$database.coverage" NAME="database Coverage Results" MODIFIED="1604413235276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flaskProject$app.coverage" NAME="app Coverage Results" MODIFIED="1597174348007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/worshop_flask$app.coverage" NAME="app Coverage Results" MODIFIED="1597338062724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/worshop_flask$Flask__app_1_py___1_.coverage" NAME="Flask (app-1.py) (1) Coverage Results" MODIFIED="1597340496093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/worshop_flask$Flask__app_1_py_.coverage" NAME="Flask (app-1.py) Coverage Results" MODIFIED="1597340542377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/worshop_flask$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1598896756354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/worshop_flask$flaskProject.coverage" NAME="workshop_flask_lol Coverage Results" MODIFIED="1597254987030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/worshop_flask$Flask__app_session_py_.coverage" NAME="Flask (app-session.py) Coverage Results" MODIFIED="1599156360451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/worshop_flask$Flask__app_py___1_.coverage" NAME="Flask (app.py) (1) Coverage Results" MODIFIED="1604580918285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
